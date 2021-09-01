@@ -1,0 +1,6 @@
+framework module Pods_AuthTask {
+  umbrella header "Pods-AuthTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
